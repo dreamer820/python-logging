@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-logging/#history
 
+## [2.1.0](https://www.github.com/googleapis/python-logging/compare/v2.0.2...v2.1.0) (2020-12-24)
+
+
+### Features
+
+* support http_request field ([#120](https://www.github.com/googleapis/python-logging/issues/120)) ([ba94afb](https://www.github.com/googleapis/python-logging/commit/ba94afb7d0a5371f2d2de4232de56df34e8a1f99))
+
+
+### Documentation
+
+* fix usage guide ([#140](https://www.github.com/googleapis/python-logging/issues/140)) ([1ca3981](https://www.github.com/googleapis/python-logging/commit/1ca398103fdfefb5576d6ef2ba20cfa4bd4ab252))
+
 ### [2.0.2](https://www.github.com/googleapis/python-logging/compare/v2.0.1...v2.0.2) (2020-12-14)
 
 
